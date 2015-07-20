@@ -1,6 +1,4 @@
-Solution Template
-=================
-
+# Solution Template
 
 Below is the solution template we use in ACM-ICPC.
 
