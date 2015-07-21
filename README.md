@@ -1,6 +1,6 @@
-# ACM-ICPC Cookbook
+# Competitive Programming Cookbook
 
-This is a cookbook for the ACM International Collegiate Programming Contest (ICPC) competitors.
+This is a cookbook for the competitive programming problems solvers. It is targeting ACM International Collegiate Programming Contest (ICPC).
 
 The majority part of the content comes from the cheat sheet used by team [NTU Orange Juice][ntu-orange-juice].
 

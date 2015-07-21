@@ -1,6 +1,13 @@
 # Solution Template
 
-Below is the solution template we use in ACM-ICPC.
+To some extend, competitive programming is more repeating compared to programming something new (assuming you know how to
+use GitHub instead of making the  wheels). However, we don't really want to repeat ourselves 12 times in an ACM contest
+in writing `main()` functions (However it is incredible if you did need to write 12 `main()` functions in an ACM contest).
+Because of that, people come up with something called solution template, where you can start your new code from.
+
+In this section we present some solution templates for different programming languages.
+
+## C++
 
 ```c++
 #include <bits/stdc++.h>
@@ -43,3 +50,8 @@ Please note that the header file we include (`bits/stdc++.h`) is not a C++ stand
 #include <list>
 ```
 
+## Java
+
+## Python
+
+It is so easy to write a Python program that we always ask ourselves what a solution template is for.

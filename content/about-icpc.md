@@ -1,4 +1,0 @@
-# A Brief Introduction to ACM-ICPC
-
-The ACM International Collegiate Programming Contest (ICPC) is a multitier, team-based, programming competition operating under the auspices of ACM and headquartered at Baylor University. The contest involves a global network of universities hosting regional competitions that advance teams to the ACM-ICPC World Finals. Participation has grown to several tens of thousands of the finest students and faculty in computing disciplines at almost 2,534 universities from over 101 countries on six continents. The contest fosters creativity, teamwork, and innovation in building new software programs, and enables students to test their ability to perform under pressure. Quite simply, it is the oldest, largest, and most prestigious programming contest in the world.
-(Copied from http://icpc.baylor.edu/, better rewrite it sometime.)
